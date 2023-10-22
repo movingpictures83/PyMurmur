@@ -1,0 +1,2 @@
+# PyMurmur
+Generate a hash
