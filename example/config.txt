@@ -1,0 +1,2 @@
+Prefix plugins/PyMurmur/example/
+Plugin PyMurmur inputfile str_to_hash.txt outputfile none
